@@ -1,0 +1,53 @@
+[
+  {
+    "Id": 34,
+    "Name": "Gigabyte AORUS GeForce RTX 4060 ELITE 8G",
+    "Price": 1099.99,
+    "Description": "Basée sur l'architecture NVIDIA Ada Lovelace, la \ncarte graphique Gigabyte AORUS GeForce RTX \n4060 ELITE 8G s'appuie sur la technologie DLSS 3 \net le ray tracing matériel pour sublimer les jeux les \nplus récents et vous permettre de vivre une expérience \nvidéoludique immersive et réaliste.",
+    "DescriptionV2": "8 Go GDDR6 - Dual HDMI/Dual DisplayPort - DLSS 3 - PCI Express (NVIDIA GeForce RTX 4060)",
+    "IsPromotion": false,
+    "UrlImage": [
+      "gpu_1.jpg",
+      "gpu_2.jpg",
+      "gpu_3.jpg",
+      "gpu_4.jpg"
+    ],
+    "UrlProduct": "https://buy.stripe.com/test_fZe2aw4Pd7BF9iM000",
+    "TagProduct": 1,
+    "Quantity": 0
+  },
+  {
+    "Id": 35,
+    "Name": "be quiet! Pure Loop 240 mm",
+    "Price": 112.99,
+    "Description": "Be Quiet déploie sa toute nouvelle série de kit de Watercooling Pure Loop avec des déclinaison est 120,240,280 et 360mm. ici nous avons à faire au Pure Loop 240 mm, il est parfait pour votre configuration bureautique ou gamer.",
+    "DescriptionV2": "Watercooling autonome - PWM - Socket AMD AM5 / AM4 et Intel 2066 / 2011(-V3) / 1700 / 1200 / 115X",
+    "IsPromotion": false,
+    "UrlImage": [
+      "wc4.webp",
+      "wc3.webp",
+      "wc2.webp",
+      "wc1.webp"
+    ],
+    "UrlProduct": "",
+    "TagProduct": 1,
+    "Quantity": 55
+  },
+  {
+    "Id": 36,
+    "Name": "dofus",
+    "Price": 15.0,
+    "Description": "jeu dofus",
+    "DescriptionV2": "Dofus 2",
+    "IsPromotion": false,
+    "UrlImage": [
+      "dofus-2023-03-10_20-42-03-Crakin.png",
+      "dofus-2023-04-27_23-14-09-Crakin.png",
+      "dofus-2023-04-20_09-24-48-Feurkin.png",
+      "dofus-2023-02-17_15-22-40-Kenetqui.png"
+    ],
+    "UrlProduct": "",
+    "TagProduct": 1,
+    "Quantity": 2
+  }
+]
